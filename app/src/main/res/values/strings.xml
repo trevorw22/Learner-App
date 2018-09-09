@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LearnerApp</string>
+    <string name="strSearch">What do you want to learn?</string>
+    <string name="txtSearch">Search</string>
+    <string name="profiletxt">Profile</string>
+    <string name="txtupdate">Update</string>
+    <string name="txtsave">Save</string>
+    <string name="offersTitletxt">My Offers</string>
+    <string name="requestTitletxt">My Requests</string>
+    <string name="addnewtxt">Add New</string>
+</resources>
